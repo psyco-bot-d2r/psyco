@@ -91,7 +91,3 @@ PSYCO фармит и качает ваших персонажей в **Diablo I
 - Сайт: [psyco-bot.online](https://psyco-bot.online/ru/)
 - Discord: [discord.gg/sBNBF843C5](https://discord.gg/sBNBF843C5)
 - YouTube: [@psyco-bot](https://www.youtube.com/@psyco-bot)
-
----
-
-<sub>PSYCO — независимый проект, не связанный с Blizzard Entertainment и не одобренный ею. Diablo II: Resurrected — товарный знак своего владельца.</sub>
