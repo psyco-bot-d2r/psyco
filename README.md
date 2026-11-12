@@ -92,6 +92,3 @@ Guides, updates and answers are in Discord, on YouTube and on the website.
 - Discord: [discord.gg/sBNBF843C5](https://discord.gg/sBNBF843C5)
 - YouTube: [@psyco-bot](https://www.youtube.com/@psyco-bot)
 
----
-
-<sub>PSYCO is an independent project, not affiliated with or endorsed by Blizzard Entertainment. Diablo II: Resurrected is a trademark of its owner.</sub>
